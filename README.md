@@ -5,10 +5,10 @@ Will be mapping these pedestrian features in the Pico-Union area, an area bewtwe
 
 ### Why are we doing this?
 - To learn how to use the OMS iD Editor
-- To contribute to Phase I of the OpenSidewalks project which entails mapping the pedestrian transportation layer. The OpenSidewalk project consists of three mapping phases with each phase adding another layer to the pedestrian network. 
+- To contribute to Phase I of the OpenSidewalks project by mapping the pedestrian transportation layer. The OpenSidewalks project consists of three mapping phases with each phase adding another layer to the pedestrian network. 
 
 ### Features to be mapped and there associated tags
-Descriptions for pedesterian features and mapping geometry followed from the [OpenSidewalks (OS) Mapping Guide](https://sidewalks.washington.edu/2024/06/04/mapping-guide/).
+Descriptions for pedesterian features and mapping geometry taken from the [OpenSidewalks (OS) Mapping Guide](https://sidewalks.washington.edu/2024/06/04/mapping-guide/).
 
 |  Pedestrian Feature | Description | Tags |
 | :----: | ---- | ---- |
