@@ -25,7 +25,7 @@ Crossings:
 - When curb ramps are diagonal instead of directional you can do either of the following:
 - Connect a crossing only to the corner curb
 
-- When providing an additional pathway from the crossing to the curb ramp I am tagging the path as a crossing and tagging whether it is marked or unmarked based on the crossing it's connected to. I am doing this because if the additional path were to not exist and we did a crossing directly to the curb ramp, this path would be considered a crossing so there by extension the path that connects from a crossing to a curb is also a crossing and shoudl be tagged as such. 
+- When providing an additional pathway from the crossing to the curb ramp I am tagging the path as a crossing and tagging whether it is marked or unmarked based on the crossing it's connected to. I am doing this because if the additional path were to not exist and we did a crossing directly to the curb ramp, this path would be considered a crossing so there by extension the path that connects from a crossing to a curb is also a crossing and shoudl be tagged as such. Question about these pathways, should these extra pathways be angled or should there be more points added to path? 
 
 
 
