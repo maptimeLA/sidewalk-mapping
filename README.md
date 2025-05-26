@@ -25,7 +25,7 @@ Crossings:
 - When curb ramps are diagonal instead of directional you can do either of the following:
 - Connect a crossing only to the corner curb
 
-- when providing an additional pathway from the corssing to the curb ramp I am tagging the path as a crossing and tagging whether it is makred or unmakred based on the crossing its conneceted to
+- when providing an additional pathway from the crossing to the curb ramp I am tagging the path as a crossing and tagging whether it is makred or unmakred based on the crossing its conneceted to
 
 
 
