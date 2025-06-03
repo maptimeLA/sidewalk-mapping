@@ -5,7 +5,7 @@ Will be mapping these pedestrian features in the Pico-Union area, an area bewtwe
 
 ### Why are we doing this?
 - To learn how to use the OMS iD Editor
-- To contribute to Phase I of the OpenSidewalks project by mapping the pedestrian transportation layer. The OpenSidewalks project consists of three mapping phases with each phase adding another layer to the pedestrian network. 
+- To contribute to Phase I of the OpenSidewalks project by mapping the pedestrian transportation layer. The OpenSidewalks project consists of three mapping phases with each phase adding another layer to the pedestrian network. Phase 2 focuses on adding attributes that may affect pedestrian accessibility and navigation while Phase 3 entails adding features that can improve or impede pedestrian traversal (OS Mapping Guide, 105).
 
 ### Features to be mapped and there associated tags
 Descriptions for pedesterian features and mapping geometry taken from the [OpenSidewalks (OS) Mapping Guide](https://sidewalks.washington.edu/2024/06/04/mapping-guide/).
@@ -21,11 +21,11 @@ Descriptions for pedesterian features and mapping geometry taken from the [OpenS
 ### Decision-making when mapping pedesterian features 
 
 Crossings: 
-- When there aren't sidewalks present, connect the crossings to curbs without adding link lines
+- When there aren't sidewalks present, connect the crossings to curbs without adding footway links
 - When curb ramps are diagonal instead of directional you can do either of the following:
-- Connect a crossing only to the corner curb
+- (1) Connect a crossing directly the corner curb ram OR (2) Draw a crossing directly across the street and connect to a raised curb and then add a path that connects the corssing to the curb ramp (OS Mapping Guide, 67). The OS mapping guide states that (2) is preferred so for the purposes of this excercise, we have chosen to map both paths pedestrians might take.
 
-- When providing an additional pathway from the crossing to the curb ramp I am tagging the path as a crossing and tagging whether it is marked or unmarked based on the crossing it's connected to. I am doing this because if the additional path were to not exist and we did a crossing directly to the curb ramp, this path would be considered a crossing so there by extension the path that connects from a crossing to a curb is also a crossing and shoudl be tagged as such. Question about these pathways, should these extra pathways be angled or should there be more points added to path? 
+- When providing an additional pathway from the crossing to the curb ramp I am tagging the path as a crossing and tagging whether it is marked or unmarked based on the crossing it's connected to. I am doing this because if the additional path were to not exist and we did a crossing directly to the curb ramp, this path would be considered a crossing so therefore by extension the path that connects from a crossing to a curb is also a crossing and should be tagged as such. Question about these pathways, should these extra pathways to curb ramps be angled or should there be more points added to path? 
 
 
 
