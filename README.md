@@ -16,7 +16,7 @@ Descriptions for pedesterian features and mapping geometry taken from the [OpenS
 | Crossing Node | "a point where the crossing line intersects with the street it traverses" (OS Mapping Guide, 57) | `highway=crossing` `crossing:marked=yes/no` *OMS now includes the preset tag `crossing=uncontrolled` but the OS mapping guide does not meniton it* | |
 | Curb Node | "points at either end of the crossing lines where the crossings meet the edge of the road" (OS Mapping Guide, 58) | `barrier=kerb` `kerb=raised/lowered/flush/rounded`| If `kerb=lowered` you can consider adding info about tactile paving by using the tag `tactile_paving=yes/no`. Other optional tags include `height=*` and `surface=*` |
 | Sidewalk Line | "a center line on a pedestrian pathway that runs along the edge of the road" (OS Mapping Guide, 58) | `highway=footway` `footway=sidewalk` | Optional tags can include `surface=*`, `width=*`, and tags concerning sidewalk inclination |
-| Link Line | "a short links that serve as footway that links a crossing curb node to a sidewalk line" (OS Mapping Guide, 59) | `highway=footway` (make note about how link can also include the footway=sidewalk tag) | `surface=*` |
+| Footway Link Line | "a short footway that links links a crossing curb node to a sidewalk line" (OS Mapping Guide, 59) | `highway=footway` *In some cases already mapped footways may additionaly include the `footway=sidewalk` but that is okay and there is no need to remove it* | `surface=*` |
 
 ### Decision-making when mapping pedesterian features 
 
