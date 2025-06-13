@@ -1,7 +1,8 @@
 # sidewalk-mapping
 Documenting the progress of mapping crossings, sidewalks, and the links between crossings and sidewalks. 
 
-Will be mapping these pedestrian features in the Pico-Union area, an area bewtween Alvarado St and Union Ave.
+Will be mapping these pedestrian features in the Pico-Union area as seen below.
+<img width="973" alt="PicoUnionMappingBoundary" src="https://github.com/user-attachments/assets/2d21d26a-670c-4833-acf6-fe1ee056cec2" />
 
 ### Why are we doing this?
 - To learn how to use the OMS iD Editor
